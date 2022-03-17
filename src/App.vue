@@ -67,7 +67,7 @@ export default {
 }
 
 .app {
-  background-color: #141625;
+  background-color:#141625;
   min-height: 100vh;
   @media (min-width: 900px) {
     flex-direction: row !important;
@@ -159,7 +159,7 @@ button,
 
 .nav-link {
   text-decoration: none;
-  color: initial;
+  color: red;
 }
 
 // Status Button Styling

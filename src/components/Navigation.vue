@@ -26,7 +26,7 @@ header {
 
   .branding {
     border-radius: 0 20px 20px 0;
-    background-color: #7c5dfa;
+    background-color: blue;
     justify-content: center;
     padding: 24px;
     @media (min-width: 900px) {
